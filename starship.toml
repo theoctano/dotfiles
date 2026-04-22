@@ -1,0 +1,11 @@
+[kubernetes]
+disabled = false
+
+[golang]
+disabled = false
+
+[terraform]
+disabled = false
+
+[python]
+disabled = false
